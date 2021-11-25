@@ -8,7 +8,7 @@
 </p>
 
 Check if subdomains are on S3 or not.<br>
-sub2s3 will sleep for 1 second after each GET request to AWS server.<br>
+sub2s3 will sleep 1 second after each GET request to AWS servers.<br>
 ## installation
 ```sh
 ➜  ~ go install -v github.com/kawakatz/sub2s3@latest
