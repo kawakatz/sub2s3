@@ -9,12 +9,12 @@
 
 Check if subdomains are on S3 or not.<br>
 sub2s3 will sleep 1 second after each GET request to AWS servers.<br>
-## installation
+## Installation
 ```sh
 ➜  ~ go install -v github.com/kawakatz/sub2s3@latest
 ```
 
-## usage
+## Usage
 ```sh
 ➜  ~ cat subdomains.txt | sub2s3
 ```
